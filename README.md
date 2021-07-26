@@ -12,6 +12,6 @@
 [protonmail-url]: mailto:leo.80@protonmail.com?subject=It%20comes%20from%20Github%20profile
 
 <h1 align="center">
-<!--   <img src="https://66.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif"> -->
-  <img src="media/hand_at_head.jpg">
+  <img src="https://66.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif">
+<!--   <img src="media/hand_at_head.jpg"> -->
 </h1>
