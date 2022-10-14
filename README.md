@@ -3,7 +3,7 @@
 [![Protonmail][protonmail-shield]][protonmail-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?logo=linkedin&colorB=0077B5&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/leonardo-t-fernandes-9b7a4a1a7/
+[linkedin-url]: https://www.linkedin.com/in/leotf/
 
 [telegram-shield]: https://img.shields.io/badge/-Telegram-white.svg?logo=telegram&colorB=white&logoColor=white
 [telegram-url]: https://t.me/leotf/
