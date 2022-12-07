@@ -5,7 +5,7 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?logo=linkedin&colorB=0077B5&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/leotf/
 
-[telegram-shield]: https://img.shields.io/badge/-Telegram-white.svg?logo=telegram&colorB=white&logoColor=white
+[telegram-shield]: https://img.shields.io/badge/-Telegram-white.svg?logo=telegram&colorB=white&logoColor=26a5e5
 [telegram-url]: https://t.me/leotf/
 
 [protonmail-shield]: https://img.shields.io/badge/-Protonmail-white.svg?logo=protonmail&colorB=505061&logoColor=white
