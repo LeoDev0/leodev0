@@ -12,5 +12,5 @@
 [protonmail-url]: mailto:me@leofernandes.dev?subject=It%20comes%20from%20Github%20profile
 
 <h1 align="center">
-  <img src="media/linus.jpg">
+  <img src="media/hand_at_head.jpg">
 </h1>
